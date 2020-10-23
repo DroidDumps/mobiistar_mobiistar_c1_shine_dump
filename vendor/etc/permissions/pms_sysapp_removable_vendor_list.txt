@@ -1,0 +1,11 @@
+com.gaana
+com.til.timesnews
+com.amazon.klite
+in.amazon.mShop.android.shopping
+com.bindass.bikeracingsaga_goo
+com.disney.thoughtbubbles_goo
+com.disney.mowglisrun_goo
+com.indiagames.arjunrunner
+com.disney.disneyrestaurant_goo
+com.bindass.CupCake_OPT
+
